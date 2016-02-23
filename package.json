@@ -19,7 +19,7 @@
     "simple"
   ],
   "dependencies": {
-    "pi-gpioutil": "^0.0.2"
+    "pi-gpioutil": "0.0.3"
   },
   "devDependencies": {
     "mocha": "1.x",
